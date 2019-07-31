@@ -11,6 +11,7 @@ public class TestgitApplicationTests {
 
     @Test
     public void contextLoads() {
+        //新实现了注册功能
     }
 
 }
